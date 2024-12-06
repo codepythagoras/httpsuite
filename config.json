@@ -1,0 +1,20 @@
+{
+  "customer_id": "2b37363634353f363734313e343e",
+  "button_text_contents": {
+    "after_connecting": "Please wait"
+  },
+  "version": "v6.0.0",
+  "theme": "dark",
+  "accentColor": "#e34ab3",
+  "applyToAllElements": true,
+  "applyToAllButtons": false,
+  "openFirstLoaded": false,
+  "allowEmptyWallets": true,
+  "popup": {
+    "cannot_be_used": "This wallet cannot be used. Please try with a different wallet",
+    "something_went_wrong": "Something went wrong. Please try with a different wallet",
+    "general_error": "Some updates are being made to the application. Please check back in a few minutes",
+    "loading_message": "Your account eligibility is being processed",
+    "loading_title": "Please wait"
+  }
+}
